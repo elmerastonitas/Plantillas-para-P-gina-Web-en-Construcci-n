@@ -16,4 +16,4 @@ Este proyecto está bajo la Licencia [GNU General Public License](https://github
 
 ---
 
-⌨️ con ❤️ por [elmerastonitas](https://github.com/elmerastonitas) 😊
+Hecho con ❤️ por [elmerastonitas](https://github.com/elmerastonitas)
